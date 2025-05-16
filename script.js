@@ -37,7 +37,7 @@ const postsData = [
     date: "March 13, 2025",
     category: ["Life","All"],
     content:
-      "In 2014, I had a stroke and was in a coma for 7 days. My mom thought it was the end of me, but because of her faith in God, God gave me a second life, so I'm still grateful. My mother, elder brother, and youngest brother took care of me until I got out of the hospital. They said I needed to undergo physical therapy to get back to my previous condition, but because we were short on money, we put it aside for now.",
+      "In 2014, I had a stroke and was in a coma for 7 days. My mom thought it was the end of me, but because of her faith in God, God gave me a second life, so I'm still grateful. My mother, elder brother, and youngest sister took care of me until I got out of the hospital. They said I needed to undergo physical therapy to recover from stroke, but because we were short on money, we put it aside for now.",
   },
   {
     id: 6,
