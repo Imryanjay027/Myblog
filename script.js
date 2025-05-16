@@ -65,7 +65,7 @@ const postsData = [
     },
     {
     id: 9,
-    title: "Step 3",
+    title: "Certificate of Participation",
     date: "May 13, 2025",
     category: "Tutorial",
     content:
@@ -73,7 +73,7 @@ const postsData = [
     },
     {
     id: 10,
-    title: "Step 4",
+    title: "Certificate of Completion",
     date: "May 13, 2025",
     category: "Tutorial",
     content:
@@ -81,7 +81,7 @@ const postsData = [
 },
 {
     id: 11,
-    title: "Step 5",
+    title: "Certificate of Participation",
     date: "May 13, 2025",
     category: "Tutorial",
     content:
